@@ -1,10 +1,6 @@
 # FOIM: Fair Online Influence Maximization
 
-This is an implementation of paper: "Fair Online Influence Maximization" as described in our paper.
-
-Xiangqi Wang, Shaokun Zhang, Qingyun Wu, Huazheng Wang, and Jian Kang "Fair Online Influence Maximization" (under review).
-
-Feel free to email Xiangqi Wang by (xwang76@nd.edu) if you have any questions.
+This is an implementation of paper: "Fair Online Influence Maximization".
 
 ## Explanation of each folder
 
